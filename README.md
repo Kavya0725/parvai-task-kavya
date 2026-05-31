@@ -11,8 +11,11 @@ This document summarizes the updates and refinements made based on the feedback 
 The following updates were made to the PCB design deliverables:
 
 \-Updated the TP4056 charging resistor value from 1.2kΩ to 2kΩ to reduce the charging current and make it more suitable for a wearable battery application.
+
 \-Expanded and refined the Design Rationale document.
+
 \-Added a detailed explanation for the 10µF bulk capacitors used on the battery side of the TP4056 charging circuit and their role in voltage stabilization.
+
 \-Improved the overall rationale by providing clearer explanations for component selection, power design decisions, supporting circuitry, and datasheet-based design choices.
 
 
@@ -21,7 +24,9 @@ The following updates were made to the PCB design deliverables:
 The following updates were made based on the review comments:
 
 \-Updated the fall detection logic by replacing the threshold condition from >= to == as suggested.
+
 \-Included updated test results after implementing the firmware changes.
+
 \-Refined the comparison between the WiFi sensing approach and the wearable sensor approach to better explain their strengths, limitations, and practical use cases.
 
 
@@ -30,7 +35,9 @@ The following updates were made based on the review comments:
 The following improvements were made:
 
 \-Added the NEAR / MID / FAR distance estimation feature using bounding-box area as a distance proxy, as suggested in the review.
+
 \-Updated the object detection results and screenshots to reflect the modified implementation.
+
 \-Revised the Esp32 challenges.
 
 
