@@ -1,0 +1,17 @@
+S.No.,Ref,Component Name,Specification / Value,Qty,LCSC Part Number,Unit Price (INR),Total Cost for 10 Units
+1,"C1,C2,C3,C8",Capacitor,10uF 0603 X5R/X7R,4,C19702,2,80
+2,"C4,C5,C6",Capacitor,100nF 0603 X7R,3,C14663,1,30
+3,C7,Capacitor,2.2nF 50V X7R 0603,1,C107082,1,10
+4,D1,LED,Red LED 0603,1,C2286,2,20
+5,J1,USB-C Connector,USB_C_Receptacle_USB2.0_14P,1,C165948,16,160
+6,J2,Battery Connector,JST-PH 2-Pin Connector,1,C131337,20,200
+7,"R1,R2",Resistor,5.1k ohm 0603 1%,2,C23186,1,20
+8,R3,Resistor,1.2k ohm 0603 1%,1,C22765,1,10
+9,R4,Resistor,10k ohm 0603 1%,1,C25804,1,10
+10,R5,Resistor,330 ohm 0603 1%,1,C23138,1,10
+11,"R6,R7",Resistor,4.7k ohm 0603 1%,2,C23162,1,20
+12,U1,TP4056,LiPo Charging IC,1,C16581,18,180
+13,U2,AMS1117-3.3,3.3V LDO Regulator,1,C6186,20,200
+14,U3,ESP32-WROOM-32,WiFi + Bluetooth MCU Module,1,C701342,421,3170
+15,U4,MPU-6050,Accelerometer + Gyroscope Sensor,1,C24112,1155,11370
+,,,,,Total,1661,15490
