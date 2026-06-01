@@ -6,7 +6,7 @@ S.No.,Ref,Component Name,Specification / Value,Qty,LCSC Part Number,Unit Price (
 5,J1,USB-C Connector,USB_C_Receptacle_USB2.0_14P,1,C165948,16,160
 6,J2,Battery Connector,JST-PH 2-Pin Connector,1,C131337,20,200
 7,"R1,R2",Resistor,5.1k ohm 0603 1%,2,C23186,1,20
-8,R3,Resistor,1.2k ohm 0603 1%,1,C22765,1,10
+8,R3,Resistor,2.0k ohm 0603 1%,1,C22975,1,10
 9,R4,Resistor,10k ohm 0603 1%,1,C25804,1,10
 10,R5,Resistor,330 ohm 0603 1%,1,C23138,1,10
 11,"R6,R7",Resistor,4.7k ohm 0603 1%,2,C23162,1,20
